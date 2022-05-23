@@ -349,7 +349,7 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout prefix="[" suffix="]" delimiter="; " page-range-format="">
+    <layout prefix=" " suffix=" " delimiter="; " page-range-format="">
       <text variable="citation-number"/>
       <choose>
         <if variable="locator">
